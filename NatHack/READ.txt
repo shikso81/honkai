@@ -1,0 +1,14 @@
+#UPDATE BY @peregodasoru
+#UPDATE BY @peregodasoru
+#UPDATE BY @peregodasoru
+
+requests
+colorama
+pandas
+pystyle
+telebot
+УСТАНОВИТЬ ЧЕРЕЗ pip install. Также обновите pip если он у вас не обновлён: python.exe -m pip install --upgrade pip
+
+#UPDATE BY @peregodasoru
+#UPDATE BY @peregodasoru
+#UPDATE BY @peregodasoru
